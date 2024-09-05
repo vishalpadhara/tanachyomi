@@ -1,0 +1,1 @@
+enum ApiRequestType { bookmarkListModelToJson, mapStringDynamic }

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "211407082818",
+    "project_id": "nachyomi-595ef",
+    "storage_bucket": "nachyomi-595ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:211407082818:android:49bdd484bb1d939583a4db",
+        "android_client_info": {
+          "package_name": "com.app.nachyomi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "211407082818-e056pbjg2qidd1h30m8sg2uj8ul1q7bf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBPBqvsnnyExYc5bG9uGtNyJvM8dDKkK8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "211407082818-e056pbjg2qidd1h30m8sg2uj8ul1q7bf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "211407082818-6a5tingq1frmb5jfqpg25ubguimbvmt1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nachyomi.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

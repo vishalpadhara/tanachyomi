@@ -1,0 +1,4 @@
+Password>>> aaaaaaaa
+Alias Password aaaaaaaa
+Alias>>> tanachyomi
+Keystore>>>> tanachyomi.Keystore
