@@ -30,6 +30,7 @@ class _SplashScreenState extends State<SplashScreen> {
     super.initState();
     internetConnection();
     setState(() {});
+
     Timer(const Duration(seconds: 3), () async {
       if (isInternet != null && isInternet! == true) {
         await nextScreen();
@@ -61,10 +62,7 @@ class _SplashScreenState extends State<SplashScreen> {
             Container(
               height: MediaQuery.of(context).size.height,
               width: MediaQuery.of(context).size.width,
-              child: Image.asset(
-                'assets/images/wall4.png',
-                fit: BoxFit.fill,
-              ),
+              child: Image.asset('assets/images/wall4.png', fit: BoxFit.fill),
             ),
             Positioned(
                 top: MediaQuery.of(context).size.height / 6,
